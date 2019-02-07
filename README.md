@@ -27,24 +27,24 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 ##### Manipulando dados em PHP
 	> Dados numéricos
 	> Dados alfanuméricos (textos)
-		>> Aspas simples (')
-		>> Aspas duplas (")
-		>> Aspas invertidas (`)
+		> Aspas simples (')
+		> Aspas duplas (")
+		> Aspas invertidas (`)
 	> Constantes
 	> Varáveis em PHP
-		>> Maiúsculas e minúsculas (case-sensitive)
-		>> Escopo de variáveis
-		>> Conversão de variáveis
-		>> Interpolação de variáveis
-		>> Variáveis criadas durante a execução
-		>> Tipos das variáveis
+		> Maiúsculas e minúsculas (case-sensitive)
+		> Escopo de variáveis
+		> Conversão de variáveis
+		> Interpolação de variáveis
+		> Variáveis criadas durante a execução
+		> Tipos das variáveis
 	> Operadores
-		>> Operadores aritméticos
-		>> Operadores binários
-		>> Operadores de comparação
-		>> Operadores de atribuição
-		>> Operadores lógicos
-		>> Operador ternário
+		> Operadores aritméticos
+		> Operadores binários
+		> Operadores de comparação
+		> Operadores de atribuição
+		> Operadores lógicos
+		> Operador ternário
 	> Precedência de operadores 
 	
 

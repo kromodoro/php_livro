@@ -46,6 +46,21 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 		> Operadores lógicos
 		> Operador ternário
 	> Precedência de operadores 
+
+### Capítulo 5
+##### Estruturas de controle em PHP
+	> Comandos condicionais
+		> If
+		> Switch
+	> Comandos de repetição
+		> While
+		> Do..While
+		> For
+		> Foreach
+	> Controlando o fluxo de execução
+		> Break
+		> Continue
+
 	
 
 

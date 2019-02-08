@@ -25,10 +25,10 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 
 ### Capítulo 4
 ##### Manipulando dados em PHP
-	> Dados numéricos
+	> Dados numéricos [dados_numericos.php]
 	> Dados alfanuméricos (textos)
-		> Aspas simples (')
-		> Aspas duplas (")
+		> Aspas simples (') [aspas_simples.php] [prog5.php]
+		> Aspas duplas (") [exemplo4_1.php]
 		> Aspas invertidas (`)
 	> Constantes
 	> Varáveis em PHP

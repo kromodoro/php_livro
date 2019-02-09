@@ -61,7 +61,30 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 		> Break
 		> Continue
 
-	
+### Capítulo 6
+##### Funções e classes
+	> Definição de uma função
+	> Como criar uma função
+	> Utilizando o comando return em uma função
+	> Utilizando funções para verificar um CPF
+	> Passagem de parâmetros: valor e referência
+	> Funções recursivas
+	> Reutilizando funções
+	> Definição de classe
+	> Como criar uma classe
+	> Programação orientada a objetos no PHP 5
+		> As palavras-chave private e protected
+		> Métodos abstratos e interfaces
+		> A palavra-chave final
+		> Construtores e destrutores
+		> Variáveis e métodos estáticos
+
+### Capítulo 7
+##### Utilizando includes em PHP
+	> Criando um menu para seu site
+	> Exibindo a data atual com uma include
+	> Reutilização de código
+	> include x Require	
 
 
 

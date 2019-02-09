@@ -29,11 +29,11 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 	> Dados alfanuméricos (textos)
 		> Aspas simples (') [aspas_simples.php] [prog5.php]
 		> Aspas duplas (") [exemplo4_1.php]
-		> Aspas invertidas (`)
-	> Constantes
+		> Aspas invertidas (`) [exemplo4_2.php]
+	> Constantes [exemplo4_3.php]
 	> Varáveis em PHP
 		> Maiúsculas e minúsculas (case-sensitive)
-		> Escopo de variáveis
+		> Escopo de variáveis [exemplo4_4.php] [exemplo4_5.php]
 		> Conversão de variáveis
 		> Interpolação de variáveis
 		> Variáveis criadas durante a execução

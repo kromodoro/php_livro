@@ -86,5 +86,28 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 	> Reutilização de código
 	> include x Require	
 
-http://www.niederauer.com.br/livros/php/sumario-9788575225349.pdf
+### Capítulo 8
+##### PHP em formulários HTML
+	> Como criar um formulário
+	> Enviando as informações para um programa PHP
+		> Método GET
+		> Método POST
+	> Como tratar as informações recebidas
+	> Funções especiais para formatação de dados
+	> Verificando os campos de um formulário
+
+### Capítulo 9
+##### Passando informações por várias páginas
+	> Utilizando o campo hidden dos formulários
+	> Passando informações pela URL
+	> Dividindo o cadastramento de usuário em etapas
+
+### Capítulo 10
+##### PHP e variáveis de ambiente
+	> Utilizando o array $_SERVER
+	> Descobrindo o endereço IP do visitante
+	> Lista das variáveis de ambiente
+
+### Capítulo 11
+##### 
 

@@ -86,5 +86,5 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 	> Reutilização de código
 	> include x Require	
 
-
+http://www.niederauer.com.br/livros/php/sumario-9788575225349.pdf
 

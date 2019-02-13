@@ -33,10 +33,10 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 	> Constantes [exemplo4_3.php]
 	> Varáveis em PHP
 		> Maiúsculas e minúsculas (case-sensitive)
-		> Escopo de variáveis [exemplo4_4.php] [exemplo4_5.php] [exemplo4_6.php]
-		> Conversão de variáveis [exemplo4_7.php]
-		> Interpolação de variáveis [exemplo4_8.php] [exemplo4_9.php] [exemplo4_10.php] [exemplo4_11.php]
-		> Variáveis criadas durante a execução [prog6.php]
+		> Escopo de variáveis [exemplo4_4.php] [exemplo4_5.php]
+		> Conversão de variáveis
+		> Interpolação de variáveis
+		> Variáveis criadas durante a execução
 		> Tipos das variáveis
 	> Operadores
 		> Operadores aritméticos
@@ -109,5 +109,70 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 	> Lista das variáveis de ambiente
 
 ### Capítulo 11
-##### 
+##### Banco de dados: MySQL ou PortgreSQL
+	> Comparação entre MySQl e PostgreSQL
+	> Outra alternativa: SQLite
+	> Como criar um banco de dados
+		> MySQL
+		> PostgreSQL
+	> Tipos de dados aceitos pelo MySQL e pelo PostgreSQL
+		> MySQL 
+		> PostgreSQL
+	> Como criar tabelas em um banco de dados
+		> Visualizando com o mysql
+		> Visualizando com psql
+	> Inserindo informações em um banco de dados
+		> Comando INSERT
+	> Alterando um banco de dados
+		> Comando UPDATE
+		> Comando ALTER TABLE
+	> Excluindo informações de um banco de dados
+		> Comando DELETE
+		> Comando DROP TABLE
+	> Fazendo consultas em um banco de dados
+		> Comando SELECT
+		> Ordenando os resultados de uma consulta
+		> Determinando o número de linhas retornadas
+		> Gravando os resultados em uma nova tabela
+		> Utilizando INSERT e SELECT para inserir registros
+	> Criando e utilizando sequências
 
+### Capítulo 12
+##### PHP com banco de dados
+	> Conectando com um banco de dados
+		> MySQL
+		> PostgreSQL
+	> Executando comando SQL em um programa PHP
+		> MySQL
+		> PostgreSQL
+	> Exibindo os resultados de comandos SQL
+	> Gerenciando um banco de dados com PHP
+	> Exemplo utilizando a biblioteca SQLite
+
+### Capítulo 13
+##### Cookies e sessões
+	> Algumas utilidades de cookies e sessões
+	> Utilizando cookies
+		> Enviando cookies pelo PHP
+		> O array superglobal $_COOKIE
+		> Criando um sistema de username / senha para site
+	> Utilizando sessões
+		> Criando uma sessão no PHP
+		> Registrando vriáveis em uma sessão
+		> Parâmetros de configuração
+		> Utilizando sessões no sistema de username/senha
+### Capítulo 14
+##### Manipulando arquivos em PHP
+	> Quando utilizar arquivos no PHP
+	> Funções para manipulação de arquivos
+	> Exemplo: contador de acessos
+	> Outras funções para o sistema de arquivos
+
+### Capítulo 15
+##### Enviando e-mails com o PHP
+	> Por que enviar e-mails com o PHP?
+	> Utilizando a função mail
+	> Configurações no arquivo php.ini
+	> Adicionando informações ao cabeçalho do e-mail
+	> Enviando e-mails em formato HTML
+	> Lista dos cabeçalhos de e-mail (mail headers) 

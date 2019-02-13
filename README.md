@@ -36,7 +36,7 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 		> Escopo de variáveis [exemplo4_4.php] [exemplo4_5.php] [exemplo4_6.php]
 		> Conversão de variáveis [exemplo4_7.php]
 		> Interpolação de variáveis [exemplo4_8.php] [exemplo4_9.php] [exemplo4_10.php] [exemplo4_11.php]
-		> Variáveis criadas durante a execução
+		> Variáveis criadas durante a execução [prog6.php]
 		> Tipos das variáveis
 	> Operadores
 		> Operadores aritméticos

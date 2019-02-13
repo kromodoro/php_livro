@@ -33,9 +33,9 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 	> Constantes [exemplo4_3.php]
 	> Varáveis em PHP
 		> Maiúsculas e minúsculas (case-sensitive)
-		> Escopo de variáveis [exemplo4_4.php] [exemplo4_5.php]
-		> Conversão de variáveis
-		> Interpolação de variáveis
+		> Escopo de variáveis [exemplo4_4.php] [exemplo4_5.php] [exemplo4_6.php]
+		> Conversão de variáveis [exemplo4_7.php]
+		> Interpolação de variáveis [exemplo4_8.php] [exemplo4_9.php] [exemplo4_10.php] [exemplo4_11.php]
 		> Variáveis criadas durante a execução
 		> Tipos das variáveis
 	> Operadores

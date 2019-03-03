@@ -37,9 +37,9 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 		> Conversão de variáveis [exemplo4_7.php]
 		> Interpolação de variáveis [exemplo4_8.php] [exemplo4_9.php] [exemplo4_10.php] [exemplo4_11.php]
 		> Variáveis criadas durante a execução [prog6.php]
-		> Tipos das variáveis [tipos-das-variaveis.php]
-	> Operadores
-		> Operadores aritméticos
+		> Tipos das variáveis [tipos-das-variaveis.php][exemplo4_12.php][exemplo4_13.php]
+	> Operadores [operadores.php]
+		> Operadores aritméticos [operadores-aritimeticos.php][prog7.php]
 		> Operadores binários
 		> Operadores de comparação
 		> Operadores de atribuição

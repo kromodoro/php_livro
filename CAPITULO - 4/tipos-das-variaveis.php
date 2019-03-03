@@ -46,7 +46,17 @@
 				$vetor["ano"] = 1995;
 
 			Repare que cada posição do array pode ser de um tipo diferente. Os valores das posições referenciadas por TIME e TITULO são do tipo STRING, mas o valor da posição referenciada por ANO é numérico. Outra coisa que pode acontecer é o array possuir índices numéricos e STRINGS ao mesmo tempo. Não há problema nenhum em usar os dois tipos de índices no mesmo array.
+			
+			Existem também as matrizes, que são arrays multidimensionais. Essas estruturas de amazenamento também possuem um único identificador, mas possuem dois ou mais índices para referenciar um posição de memória. Imagine que queremos armazenar na memória os nomes dos melhores clubes de futebol brasileiro, separando po Estado e cidades. podemos fazer iss utilizando um array bidimensional. 
 
+			$clube["RS"]["PortoAlegre"] = "Grêmio";
+			$clube["RS"]["Caxias"] = "Juventude";
+			$clube["RS"]["BentoGonçalves"] = "Esportivo";
+			$clube["MG"]["BeloHorizonte"] = "Atlético";
+			$clube["MG"]["NovaLima"] = "Vila Nova";
+			$clube["MG"]["Ipatinga"] = "Ipatinga";
+			$clube["SP"]["SaoPauli"] = "Corinthians";
+			$clube["SP"]["Americana"] = "Rio Branco";
 
 
 

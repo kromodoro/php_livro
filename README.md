@@ -40,9 +40,9 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 		> Tipos das variáveis [tipos-das-variaveis.php][exemplo4_12.php][exemplo4_13.php]
 	> Operadores [operadores.php]
 		> Operadores aritméticos [operadores-aritimeticos.php][prog7.php]
-		> Operadores binários
-		> Operadores de comparação
-		> Operadores de atribuição
+		> Operadores binários [operadores-binarios.php][exemplo4_14.php][exemplo4_15.php]
+		> Operadores de comparação [operadores-de-comparacao.php]
+		> Operadores de atribuição [operadores-de-atribuicao.php]--
 		> Operadores lógicos
 		> Operador ternário
 	> Precedência de operadores 

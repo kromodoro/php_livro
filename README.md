@@ -44,9 +44,8 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 		> Operadores de comparação [operadores-de-comparacao.php]
 		> Operadores de atribuição [operadores-de-atribuicao.php] [exemplo4_16.php]
 		> Operadores lógicos [operadores-logicos.php] [exemplo4_17.php]
-		> Operador ternário [operador-ternario.php]--
-	> Precedência de operadores 
-
+		> Operador ternário [operador-ternario.php]
+	> Precedência de operadores [precedencia-de-operadores.php] [exemplo4_18.php] [exemplo4_19.php] [exemplo4_20.php]
 ### Capítulo 5
 ##### Estruturas de controle em PHP
 	> Comandos condicionais

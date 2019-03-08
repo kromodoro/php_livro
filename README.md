@@ -42,9 +42,9 @@ Exemplos feitos do Livro: Desenvolvendo Websites com PHP
 		> Operadores aritméticos [operadores-aritimeticos.php][prog7.php]
 		> Operadores binários [operadores-binarios.php][exemplo4_14.php][exemplo4_15.php]
 		> Operadores de comparação [operadores-de-comparacao.php]
-		> Operadores de atribuição [operadores-de-atribuicao.php]--
-		> Operadores lógicos
-		> Operador ternário
+		> Operadores de atribuição [operadores-de-atribuicao.php] [exemplo4_16.php]
+		> Operadores lógicos [operadores-logicos.php] [exemplo4_17.php]
+		> Operador ternário [operador-ternario.php]--
 	> Precedência de operadores 
 
 ### Capítulo 5
